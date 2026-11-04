@@ -1,5 +1,4 @@
 using HR_Management.Domain.Common;
-
 namespace HR_Management.Domain.Entities;
 
 public class LeaveRequest:BaseDomainEntity
